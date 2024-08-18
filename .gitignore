@@ -1,0 +1,16 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore the database file if it should not be tracked
+blog.db
+
+# Ignore logs
+logs/
+*.log
+
+# Ignore OS-specific files (optional)
+.DS_Store
+Thumbs.db
+
+# Ignore other temporary files (optional)
+*.tmp
